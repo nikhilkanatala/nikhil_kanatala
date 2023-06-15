@@ -1,7 +1,7 @@
 # Nikhil Kanatala
 WIP - come join me on my journey!
 
-# My Public Profile
+## My Public Profile
 
 Welcome to my GitHub profile! Here you will find an assortment of projects and contributions that showcase my skills and interests. Feel free to explore and provide feedback or suggestions.
 
