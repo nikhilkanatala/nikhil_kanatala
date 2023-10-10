@@ -7,6 +7,28 @@ Welcome to my GitHub profile! Here you will find an assortment of projects and c
 
 ## Projects
 
+### Project - Breast Cancer ML Analysis
+
+- Description: This project focuses on analyzing the Wisconsin Diagnostic Breast Cancer dataset using various machine learning methodologies. The main objective is to classify breast cancer tumors as Malignant or Benign based on nuclear cell features extracted from fine needle aspirate (FNA) images. The analysis leverages Monte Carlo simulations combined with supervised, semi-supervised, and unsupervised learning models to achieve robust and consistent classifications.
+
+- Technologies:
+      Python: Primary programming language.
+      Scikit-learn: For building and evaluating machine learning models.
+      Pandas: For data manipulation and analysis.
+      Matplotlib & Seaborn: For data visualization.
+      [Any other libraries or tools you might have used, e.g., NumPy, Jupyter Notebook, etc.]
+
+- Installation
+      Clone the repository:
+      git clone [Your Repository Link]
+      Navigate to the project directory:
+      cd [Directory Name]
+
+      Note: Ensure you have Python installed and optionally set up a virtual environment to keep your workspace clean.
+
+- Usage:
+        Import the necessary librarires and load the data. And run the .ipynb file to understand data, view various model performance.
+
 ### Project - Event Search
 
 - Description: Event Search is a web application that allows users to search for events based on location, category, and distance. It is built using AngularJS, Bootstrap, and Node.js and leverages the Ticketmaster API to fetch event data. The application features an interactive data table, pagination for large result sets, a detailed event tabbed card, favoriting events, integration with Google Maps API, and direct links to the Ticketmaster website.
